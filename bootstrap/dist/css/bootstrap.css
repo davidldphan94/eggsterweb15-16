@@ -4965,34 +4965,20 @@ a.badge:focus {
   color: inherit;
   background-image: url(images/Ucberkeley_tower.jpg);
   background-size: cover;                      /* <------ */
-  background-repeat:   no-repeat;
-      -webkit-transition: opacity 2s ease-in;
-    -moz-transition: opacity 2s ease-in;
-    -o-transition: opacity 2s ease-in;
-    -ms-transition: opacity 2s ease-in;
-    transition: opacity 2s ease-in;
+  background-repeat: no-repeat;
 
 
 }
 .jumbotron h2,
 .jumbotron .h2 {
   color: inherit;
-      -webkit-transition: opacity 2s ease-in;
-    -moz-transition: opacity 2s ease-in;
-    -o-transition: opacity 2s ease-in;
-    -ms-transition: opacity 2s ease-in;
-    transition: opacity 2s ease-in;
+
 }
 .jumbotron p {
   margin-bottom: 15px;
   font-size: 21px;
   font-weight: 200;
   color: inherit;
-      -webkit-transition: opacity 2s ease-in;
-    -moz-transition: opacity 2s ease-in;
-    -o-transition: opacity 2s ease-in;
-    -ms-transition: opacity 2s ease-in;
-    transition: opacity 2s ease-in;
 }
 .jumbotron > hr {
   border-top-color: #d5d5d5;
