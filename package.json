@@ -1,0 +1,26 @@
+{
+  "name": "david",
+  "version": "5.5.0",
+  "description": "bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "idk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidldphan94/eggsterweb15-16.git"
+  },
+  "keywords": [
+    "eggster"
+  ],
+  "author": "davidldphan94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidldphan94/eggsterweb15-16/issues"
+  },
+  "homepage": "https://github.com/davidldphan94/eggsterweb15-16#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {}
+}
