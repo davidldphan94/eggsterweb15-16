@@ -3,29 +3,53 @@
 <head>
     <title>Eggster at Berkeley</title>
     <link href="css/bootstrap.css" rel="stylesheet">
-    <link href="js/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-theme.css" rel="stylesheet">
+    <link href="js/bootstrap.js" rel="stylesheet">
+    <link href="js/npm.css" rel="stylesheet">
 </head>
     <body>
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top">
         <div class="container-fluid">
-            <button type="button" class="btn btn-default"><a href="">Home</a></button>
-            <button type="button" class="btn btn-default"><a href="about.php">About Us</a></button>
-            <button type="button" class="btn btn-default"><a href="getinvolved.php">Get Involved</a></button>
-            <button type="button" class="btn btn-default"><a href="sponsor.php">Sponsors</a></button>
-            <button type="button" class="btn btn-default"><a href="beneficiaries.php">Beneficiaries</a></button>
-            <button type="button" class="btn btn-default"><a href="contact.php">Contact</a></button>   
-            <button type="button" class="btn btn-default"><a href="calendar.php">Calendar</a></button>      
+            <ul class="nav nav-tabs">
+            <li role="presentation"><a href="">Home</a></li>
+            <li role="presentation" class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
+                    <ul class="dropdown-menu"> 
+                        <li><a href="#">About Us</a></li>
+                        <li><a href="#">Officer Spotlight</a></li>
+                        <li><a href="#">Our Organization</a></li>
+                    </ul>
+            </li>
+            <li role="presentation" class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Get Involved <span class="caret"></span></a>
+                    <ul class="dropdown-menu"> 
+                        <li><a href="#">For Members</a></li>
+                        <li><a href="#">For Alumni</a></li>
+                        <li><a href="#">For Volunteers</a></li>
+                        <li><a href="#">For Performers</a></li>
+                        <li><a href="#">For Student Organizations</a></li>
+                    </ul>
+            </li>
+            <li role="presentation"><a href="getinvolved.php">Get Involved</a></li>
+            <li role="presentation"><a href="sponsor.php">Sponsors</a></li>
+            <li role="presentation"><a href="beneficiaries.php">Beneficiaries</a></li>
+            <li role="presentation"><a href="contact.php">Contact</a></li>
+            <li role="presentation"><a href="calendar.php">Calendar</a></li>
+            </ul> 
+    
         </div>
     </nav>
         <!-- Content -->
         <div class="jumbotron">
             <div class="container">
-                <h2>WELCOME TO EGGSTER!</h2>
-
+                <div class="page-header">
+                    <h2>WELCOME TO EGGSTER!</h2>
+                </div>
                 <p>
                 Eggster is a student organization sponsored by ASUC, a 501(c)(3) nonprofit organization located in Berkeley. Every year we organize and run the Eggster Egghunt and Learning Festival, the largest free egg hunt and learning festival in Northern California. Not only is it free for all kids, it is also a learning festival filled with educational booths and activities! In addition, we partner with local charities to support youth education. 
-                
+                </p>
+                <p>
                 The 2016 Eggster Learning Festival is going to be on April 2nd, 2016. Please check the <a href="eventday.php">Event Day</a> page for more details.
                 </p>
                 <b><p>
@@ -34,5 +58,12 @@
                 </p>
             </div> 
         </div> 
+    <div>
+        <p>Copyright &copy; Eggster 2015 | Valid CSS &amp; HTML.</p>
+        <div class="cl">&nbsp;</div>
+    </div>
+
+
+
     </body>
 </html>
