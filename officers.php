@@ -11,12 +11,12 @@
         <nav class="navbar navbar-default navbar-static-top">
         <div class="container-fluid">
             <ul class="nav nav-tabs">
-            <li role="presentation"><a href="">Home</a></li>
+            <li role="presentation"><a href="index.html">Home</a></li>
             <li role="presentation" class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
                     <ul class="dropdown-menu"> 
                         <li><a href="#">About Us</a></li>
-                        <li><a href="#">Officer Spotlight</a></li>
+                        <li><a href="">Officer Spotlight</a></li>
                         <li><a href="#">Our Organization</a></li>
                     </ul>
             </li>
@@ -151,7 +151,42 @@
       </div>
 
       </div>
+    <div class="row">
 
+    <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="..." alt="...">
+          <div class="caption">
+            <h5>
+                Name: Maggie Chen
+                <br>
+                Position: Volunteer Co-Chair
+            </h5>
+                <p>
+                    INSERT BIO HERE
+                </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="..." alt="...">
+          <div class="caption">
+            <h5>
+                Name: Angie Shih
+                <br>
+                Position: Volunteer Co-Chair
+            </h5>
+                <p>
+                    INSERT BIO HERE
+                </p>
+          </div>
+        </div>
+      </div>
+
+
+    </div>
 <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
@@ -185,6 +220,7 @@
         </div>
       </div>
 </div>
+
 <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
