@@ -223,7 +223,7 @@ th {
   }
   tr,
   img {
-    page-break-inside: avoid;
+    page-break-inside: a void;
   }
   img {
     max-width: 100% !important;
@@ -3987,6 +3987,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   display: block;
   padding: 10px 15px;
+  color: #9932CC;
 }
 .nav > li > a:hover,
 .nav > li > a:focus {
@@ -4963,15 +4964,19 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: white;
-  background-image: url(images/TolmanView.jpg);
+  background-color: #9932CC;
   background-size: cover;                      /* <------ */
   background-repeat: no-repeat;
 
+}
 
+* a {
+  color: #00CC00;
 }
 .jumbotron h2,
 .jumbotron .h2 {
   color: inherit;
+  font-style: italic;
 
 }
 .jumbotron p {
@@ -5490,6 +5495,7 @@ button.list-group-item-danger.active:focus {
   color: inherit;
 }
 .panel-footer {
+  color: #9932CC;
   padding: 10px 15px;
   background-color: #f5f5f5;
   border-top: 1px solid #ddd;

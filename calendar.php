@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-    <title>Eggster at Berkeley</title>
+    <title>Calendar</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet">
     <link href="bootstrap/js/*.js">
@@ -41,7 +41,7 @@
 <div class="panel panel-default">
   <div class="panel-body">
 
-                    <iframe src="https://calendar.google.com/calendar/embed?showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=800&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cdkpmek65t442850nkpltsl6v8%40group.calendar.google.com&amp;color=%23B1365F&amp;ctz=America%2FLos_Angeles" style=" border-width:0 " width="925" height="800" frameborder="0" scrolling="no"></iframe>
+                    <iframe src="https://calendar.google.com/calendar/embed?title=Eggster%20Calendar&amp;showNav=0&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0&amp;height=624&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cdkpmek65t442850nkpltsl6v8%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="1024" height="624" frameborder="0" scrolling="no"></iframe>
                     
                 <br>
                 </div>
@@ -49,7 +49,7 @@
             </div>
 
     <div class="panel-footer">
-        <p>Copyright &copy; Eggster 2015-2016 | Valid CSS &amp; HTML.</p>
+        <p>Copyright &copy; Eggster 2015-2016 | Valid Bootstrap CSS &amp; HTML.</p>
         <div class="cl">&nbsp;</div>
     </div>
 

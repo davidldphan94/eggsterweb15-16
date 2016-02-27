@@ -176,7 +176,7 @@ Please upload new beneficiary documents. This is so potential organizations who 
     
 
     <div class="panel-footer">
-        <p>Copyright &copy; Eggster 2015-2016 | Valid CSS &amp; HTML.</p>
+        <p>Copyright &copy; Eggster 2015-2016 | Valid Bootstrap CSS &amp; HTML.</p>
         <div class="cl">&nbsp;</div>
     </div>
 

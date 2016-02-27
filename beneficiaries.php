@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-    <title>Eggster at Berkeley</title>
+    <title>Beneficiaries</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <link href="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet">
     <link href="bootstrap/js/*.js">
@@ -38,22 +38,19 @@
         </div>
     </nav>
 
-
-<div class="panel panel-default">
-  <div class="panel-body">
-                <div>
-                    <h3>Our Beneficiaries</h3><p>
-                    Eggster has donated thousands of dollars directly to preselected Bay Area agencies that work with children, primarily those that have special needs and/or are socio-economically disadvantaged. <br>
-<br>
-If you are part of a non-profit organization serving children in the East Bay and would like to apply for funds, you can download the following application and mail it to:
-</p>
-<br />
-Eggster Organization<br />
-University of California, Berkeley<br />
-112 Hearst Gym #4520<br />
-Berkeley, CA 94720-4520
-<br />
-<br />
+<div class="jumbotron">
+    <h2>Our Beneficiaries</h2>
+        <p>
+        Eggster has donated thousands of dollars directly to preselected Bay Area agencies that work with children, primarily those that have special needs and/or are socio-economically disadvantaged. 
+        <br>
+        If you are part of a non-profit organization serving children in the East Bay and would like to apply for funds, you can download the following application and mail it to:
+        </p>
+        <p>
+        Eggster Organization<br>
+        University of California, Berkeley<br>
+        112 Hearst Gym #4520<br>
+        Berkeley, CA 94720-4520<br>
+        </p>
 <!--
 FUTURE SHA: PLEASE DO NOT DELETE THIS COMMENT.
 Please upload new beneficiary documents. This is so potential organizations who PCR did not mail presonally who want to apply can apply. We've gotten some good beneficiaries that way.
@@ -77,17 +74,15 @@ Please upload new beneficiary documents. This is so potential organizations who 
             
                 <p>
                     <!--Make sure this says if we're accepting applications or not. Add the deadline when PCR/Overalls tell you what it is.-->
-                Fall 2015 applications are currently <b>OPEN!</b> 
-                <br>To become a beneficiary for this year's learning festival, 
-                    please apply via <a href="http://goo.gl/forms/HXdkSsb22t">this link.</a><br><br>
+                The 2015-2016 Beneficiary this year is <a href="http://www.habitot.org/">Habitot Children's Museum</a>. Thank you for all who applied!
                 </p>
-                <!-- <p>
-                The 2014-2015 Beneficiaries are <a href="http://www.boostoakland.org/" target="_blank">Boost! West Oakland</a> and <a href="http://www.rocksf.org/" target="_blank">R.O.C.K. SF</a>.
-                <br/> <br>Thank you!
-                </p> -->
-                <br />
-                <br />
-                <h3>Beneficiaries from previous years:</h3>
+                </div>
+
+
+</div>
+
+<div>
+<h3>Beneficiaries from previous years:</h3>
 
 <b>The 2014-2015 Beneficiaries</b><br />
 <a href="http://www.boostoakland.org/" target="_blank">Boost! West Oakland</a><br />
@@ -163,20 +158,9 @@ Please upload new beneficiary documents. This is so potential organizations who 
 <a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a><br />
 <a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a><br />
 <a href="http://studentparents.berkeley.edu/" target="_blank">Student Parent Center/Agency (SPC/A)</a>
-                </div>
-                
-            </div>
-
-            <div class="cl">&nbsp;</div>
-        </div>
-        
-        <div class="shadow-l"></div>
-        <div class="shadow-r"></div>
-        <div class="shadow-b"></div>
-    </div>
-    
+</div>
     <div class="panel-footer">
-        <p>Copyright &copy; Eggster 2015-2016 | Valid CSS &amp; HTML.</p>
+        <p>Copyright &copy; Eggster 2015-2016 | Valid Bootstrap CSS &amp; HTML.</p>
         <div class="cl">&nbsp;</div>
     </div>
 

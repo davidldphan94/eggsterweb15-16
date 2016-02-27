@@ -44,12 +44,15 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Raj Brayana
+                <b>Name:</b> Raj Brayana
                 <br>
-                Position: Co-President
+                <b>Position:</b> Co-President
+                <br>
+                <a href="mailto:eggsteroverall@gmail.com">eggsteroverall@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
+                  
                 </p>
           </div>
         </div>
@@ -60,12 +63,15 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Christine Laymon
+                <b>Name:</b> Christine Laymon
                 <br>
-                Position: Co-President
+                <b>Position:</b> Co-President
+                <br>
+                <a href="mailto:eggsteroverall@gmail.com">eggsteroverall@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
+                    
                 </p>
           </div>
         </div>
@@ -83,9 +89,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Delia Nguyen
+                <b>Name:</b> Delia Nguyen
                 <br>
-                Position: Public and Community Relations Co-Chair
+                <b>Position:</b> Public and Community Relations Co-Chair
+                <br>
+                <a href="mailto:eggsterpcr@gmail.com">eggsterpcr@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -99,9 +107,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Hiram Yu
+                <b>Name:</b> Hiram Yu
                 <br>
-                Position: Public and Community Relations Co-Chair
+                <b>Position:</b> Public and Community Relations Co-Chair
+                <br>
+                <a href="mailto:eggsterpcr@gmail.com">eggsterpcr@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -123,9 +133,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Kathy Chong
+                <b>Name:</b> Kathy Chong
                 <br>
-                Position: Event Co-Chair
+                <b>Position:</b> Event Co-Chair
+                <br>
+                <a href="mailto:eggsterevent@gmail.com">eggsterevent@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -139,9 +151,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Tina Cao
+                <b>Name:</b> Tina Cao
                 <br>
-                Position: Event Co-Chair
+                <b>Position:</b> Event Co-Chair
+                <br>
+                <a href="mailto:eggsterevent@gmail.com">eggsterevent@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -158,9 +172,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Maggie Chen
+                <b>Name:</b> Maggie Chen
                 <br>
-                Position: Volunteer Co-Chair
+                <b>Position:</b> Volunteer Co-Chair
+                <br>
+                <a href = "mailto:eggstervolunteer@gmail.com">eggstervolunteer@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -174,9 +190,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Angie Shih
+                <b>Name:</b> Angie Shih
                 <br>
-                Position: Volunteer Co-Chair
+                <b>Position:</b> Volunteer Co-Chair
+                <br>
+                <a href = "mailto:eggstervolunteer@gmail.com">eggstervolunteer@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -193,9 +211,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Howard Kim
+                <b>Name:</b> Howard Kim
                 <br>
-                Eggster Position: Design Co-Chair
+                Eggster <b>Position:</b> Design Co-Chair
+                <br>
+                <a href = "mailto:eggsterdesign@gmail.com">eggsterdesign@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -209,9 +229,11 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Sharon Park
+                <b>Name:</b> Sharon Park
                 <br>
-                Eggster Position: Design Co-Chair
+                Eggster <b>Position:</b> Design Co-Chair
+                <br>
+                <a href = "mailto:eggsterdesign@gmail.com">eggsterdesign@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -227,24 +249,31 @@
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: David Phan
+                <b>Name:</b> Chris Teng
                 <br>
-                Position: Webmaster
+                <b>Position:</b> Finance Chair
+                <br>
+                <a href="mailto:eggsterfinance@gmail.com">eggsterfinance@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
+                  
                 </p>
           </div>
         </div>
       </div>
+
+
             <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
           <img src="..." alt="...">
           <div class="caption">
             <h5>
-                Name: Payton Wakimoto
+                <b>Name:</b> Payton Wakimoto
                 <br>
-                Eggster Position: Social, Historian, and Alumni Relations Chair
+                <b>Position:</b> Social, Historian, and Alumni Relations Chair
+                <br>
+                <a href = "mailto:eggstersha@gmail.com">eggstersha@gmail.com</a>
             </h5>
                 <p>
                     INSERT BIO HERE
@@ -254,6 +283,25 @@
       </div>
     </div>
 
+
+<div class="row">
+          <div class="col-sm-6 col-md-4">
+        <div class="thumbnail">
+          <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAI8AAAAJDQ5OThmMTJjLWE2ZmMtNDllMS05N2FlLTI2MTJkMDM4N2EwMg.jpg" alt="...">
+          <div class="caption">
+            <h5>
+                <b><b>Name:</b></b> David Phan
+                <br>
+                <b><b>Position:</b></b> Webmaster
+                <br>
+                <a href = "mailto:eggsterweb@gmail.com">eggsterweb@gmail.com</a>
+            </h5>
+                <p>
+            Hello, my name is David Phan and I am a fourth year majoring in Cognitive Science with a concentration in Society, Culture, and Cognition and minoring in Computer Science. Currently, I am the webmaster for Eggster in this academic year, and have mostly done work on updating the current website while also creating a new website from scratch. 
+                </p>
+          </div>
+        </div>
+      </div>
 </div>
 
 
@@ -264,7 +312,7 @@
 
     <!-- Footer -->
     <div class="panel-footer">
-        <p>Copyright &copy; Eggster 2015-2016 | Valid CSS &amp; HTML.</p>
+        <p>Copyright &copy; Eggster 2015-2016 | Valid Bootstrap CSS &amp; HTML.</p>
         <div class="cl">&nbsp;</div>
     </div>
 
