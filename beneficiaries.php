@@ -3,9 +3,12 @@
 <head>
     <title>Beneficiaries</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <link href="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet">
-    <link href="bootstrap/js/*.js">
+    <script type="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet"></script>
+    <script type="bootstrap/jq/*.jq"></script>
+    <script type="text/javascript" src="bootstrap/jq/jquery-1.12.1.js"></script>
+    <script type="text/javascript" src="bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
+
     <body>
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top">
@@ -39,7 +42,9 @@
     </nav>
 
 <div class="jumbotron">
+<div class="page-header">
     <h2>Our Beneficiaries</h2>
+    </div>
         <p>
         Eggster has donated thousands of dollars directly to preselected Bay Area agencies that work with children, primarily those that have special needs and/or are socio-economically disadvantaged. 
         <br>

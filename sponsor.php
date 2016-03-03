@@ -3,9 +3,12 @@
 <head>
     <title>Sponsors</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <link href="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet">
-    <link href="bootstrap/js/*.js">
+    <script type="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet"></script>
+    <script type="bootstrap/jq/*.jq"></script>
+    <script type="text/javascript" src="bootstrap/jq/jquery-1.12.1.js"></script>
+    <script type="text/javascript" src="bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
+
     <body>
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top">
@@ -43,7 +46,9 @@
             <div id="content" class="left">
                 <div class="highlight">
                 <div class="jumbotron">
+                <div class="page-header">
                     <h2>Our Sponsors</h2>
+                    </div>
                     <p>
 The Eggster Egghunt & Learning Festival is sponsored by ASUC, a registered non-profit 501(c)(3) organization. We welcome donations from corporations and individuals in monetary or in-kind form. 100% of donations not used on event details will be donated directly to our <a href="beneficiaries.php">beneficiaries</a>.
 <br><br>

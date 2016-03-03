@@ -3,9 +3,12 @@
 <head>
     <title>Eggster at Berkeley</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <link href="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet">
-    <link href="bootstrap/js/*.js">
+    <script type="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet"></script>
+    <script type="bootstrap/jq/*.jq"></script>
+    <script type="text/javascript" src="bootstrap/jq/jquery-1.12.1.js"></script>
+    <script type="text/javascript" src="bootstrap/dist/js/bootstrap.min.js"></script>
 </head>
+
     <body>
         <!-- Navigation -->
         <nav class="navbar navbar-default navbar-static-top">
