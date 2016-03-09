@@ -11,36 +11,49 @@
 
     <body>
         <!-- Navigation -->
-        <nav class="navbar navbar-default navbar-static-top">
+        <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
-            <ul class="nav nav-tabs">
+            <ul class="nav nav-tabs nav-justified">
             <li role="presentation"><a href="index.html">Home</a></li>
             <li role="presentation" class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
                     <ul class="dropdown-menu"> 
-                        <li><a href="#">About Us</a></li>
                         <li><a href="officers.php">Officer Spotlight</a></li>
-                        <li><a href="#">Our Organization</a></li>
+                        <li><a href="about.php">Our Organization</a></li>
                     </ul>
             </li>
             <li role="presentation" class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Get Involved <span class="caret"></span></a>
                     <ul class="dropdown-menu"> 
-                        <li><a href="#">For Members</a></li>
-                        <li><a href="#">For Alumni</a></li>
-                        <li><a href="#">For Volunteers</a></li>
-                        <li><a href="#">For Performers</a></li>
-                        <li><a href="#">For Student Organizations</a></li>
+                        <li><a href="getinvolved.php#members">For Members</a></li>
+                        <li><a href="getinvolved.php#alumni">For Alumni</a></li>
+                        <li><a href="getinvolved.php#volunteer">For Volunteers</a></li>
+                        <li><a href="getinvolved.php#performer">For Performers</a></li>
+                        <li><a href="getinvolved.php#organization">For Student Organizations</a></li>
                     </ul>
             </li>
             <li role="presentation"><a href="sponsor.php">Sponsors</a></li>
             <li role="presentation"><a href="beneficiaries.php">Beneficiaries</a></li>
             <li role="presentation"><a href="calendar.php">Calendar</a></li>
+            <li role="presentation"><a href="#">Event Day</a></li>
             </ul> 
     
         </div>
     </nav>
 
+
+    <div class="jumbotron">
+        <div class="container-fluid">
+            <div class="page-header">
+                <h2>Event Day</h2>
+            </div>
+            <p>
+                Date: April 2nd, 2016<br>
+                Place: Campanile Esplanade
+            </p>
+        </div>
+        
+    </div>
 
 
     <div class="panel-footer">

@@ -11,37 +11,39 @@
 
     <body>
         <!-- Navigation -->
-        <nav class="navbar navbar-default navbar-static-top">
+        <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
-            <ul class="nav nav-tabs">
+            <ul class="nav nav-tabs nav-justified">
             <li role="presentation"><a href="index.html">Home</a></li>
             <li role="presentation" class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">About Us <span class="caret"></span></a>
                     <ul class="dropdown-menu"> 
                         <li><a href="#">About Us</a></li>
                         <li><a href="officers.php">Officer Spotlight</a></li>
-                        <li><a href="#">Our Organization</a></li>
+                        <li><a href="about.php">Our Organization</a></li>
                     </ul>
             </li>
-            <li role="presentation" class="dropdown">
+             <li role="presentation" class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Get Involved <span class="caret"></span></a>
                     <ul class="dropdown-menu"> 
-                        <li><a href="#">For Members</a></li>
-                        <li><a href="#">For Alumni</a></li>
-                        <li><a href="#">For Volunteers</a></li>
-                        <li><a href="#">For Performers</a></li>
-                        <li><a href="#">For Student Organizations</a></li>
+                        <li><a href="getinvolved.php#members">For Members</a></li>
+                        <li><a href="getinvolved.php#alumni">For Alumni</a></li>
+                        <li><a href="getinvolved.php#volunteer">For Volunteers</a></li>
+                        <li><a href="getinvolved.php#performer">For Performers</a></li>
+                        <li><a href="getinvolved.php#organization">For Student Organizations</a></li>
                     </ul>
             </li>
             <li role="presentation"><a href="sponsor.php">Sponsors</a></li>
-            <li role="presentation"><a href="">Beneficiaries</a></li>
+            <li role="presentation"><a href="#">Beneficiaries</a></li>
             <li role="presentation"><a href="calendar.php">Calendar</a></li>
+            <li role="presentation"><a href="eventday.php">Event Day</a></li>
             </ul> 
     
         </div>
     </nav>
 
 <div class="jumbotron">
+<div class="container-fluid">
 <div class="page-header">
     <h2>Our Beneficiaries</h2>
     </div>
@@ -83,10 +85,10 @@ Please upload new beneficiary documents. This is so potential organizations who 
                 </p>
                 </div>
 
-
+</div>
 </div>
 
-<div>
+<div class="container-fluid">
 <h3>Beneficiaries from previous years:</h3>
 
 <b>The 2014-2015 Beneficiaries</b><br />
