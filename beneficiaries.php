@@ -3,7 +3,7 @@
 <head>
     <title>Beneficiaries</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <script type="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet"></script>
+    <script type="bootstrap/dist/js/bootstrap.css/*.js" rel="stylesheet"></script>
     <script type="bootstrap/jq/*.jq"></script>
     <script type="text/javascript" src="bootstrap/jq/jquery-1.12.1.js"></script>
     <script type="text/javascript" src="bootstrap/dist/js/bootstrap.min.js"></script>
@@ -53,10 +53,10 @@
         If you are part of a non-profit organization serving children in the East Bay and would like to apply for funds, you can download the following application and mail it to:
         </p>
         <p>
-        Eggster Organization<br>
-        University of California, Berkeley<br>
-        112 Hearst Gym #4520<br>
-        Berkeley, CA 94720-4520<br>
+            Eggster Organization<br>
+            University of California, Berkeley<br>
+            432 Eshleman Hall MC #4500<br>
+            Berkeley, CA 94720-4500<br> 
         </p>
 <!--
 FUTURE SHA: PLEASE DO NOT DELETE THIS COMMENT.
@@ -89,82 +89,164 @@ Please upload new beneficiary documents. This is so potential organizations who 
 </div>
 
 <div class="container-fluid">
+<div class="page-header">
 <h3>Beneficiaries from previous years:</h3>
+</div>
 
-<b>The 2014-2015 Beneficiaries</b><br />
-<a href="http://www.boostoakland.org/" target="_blank">Boost! West Oakland</a><br />
-<a href="http://www.rocksf.org/" target="_blank">R.O.C.K SF</a><br /><br>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2014-2015 Beneficiaries</b></div>
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.boostoakland.org/" target="_blank">Boost! West Oakland</a></li>
+<li class="list-group-item"><a href="http://www.rocksf.org/" target="_blank">R.O.C.K SF</a></li>
+</ul>
+</div>
 
-<b>The 2013-2014 Beneficiaries</b><br />
-<a href="http://oaklandyouthchorus.org" target="_blank">Oakland Youth Chorus</a><br />
-<a href="http://www.superstarsliteracy.org" target="_blank">Super Stars Literacy</a><br /><br>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2013-2014 Beneficiaries</b></div>
+<ul class="list-group">
+<li class="list-group-item"><a href="http://oaklandyouthchorus.org" target="_blank">Oakland Youth Chorus</a></li>
+<li class="list-group-item"><a href="http://www.superstarsliteracy.org" target="_blank">Super Stars Literacy</a></li>
+</ul>
+</div>
 
-<b>The 2012-2013 Beneficiaries</b><br />
-<a href="http://www.coachart.org" target="_blank">CoachArt</a><br />
-<a href="http://www.missiongraduates.org" target="_blank">Mission Graduates</a><br /><br>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2012-2013 Beneficiaries</b></div>
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.coachart.org" target="_blank">CoachArt</a></li>
+<li class="list-group-item"><a href="http://www.missiongraduates.org" target="_blank">Mission Graduates</a></li>
+</ul>
+</div>
+       
 
-                <b>The 2011-2012 Beneficiaries</b><br />
-<a href="http://www.alacostacenters.org/index.php" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.firstgraduate.org/" target="_blank">First Graduate</a><br />
-<a href="http://www.contracostaarc.org/" target="_blank">George Miller Center</a><br /><br>
-            
-                <b>The 2010-2011 Beneficiaries</b><br />
-<a href="http://www.habitot.org/" target="_blank">Habitot</a><br />
-<a href="http://www.contracostaarc.org" target="_blank">George Miller Center</a><br /><br>
-<b>The 2009-2010 Beneficiaries</b><br />
-<a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.contracostaarc.org" target="_blank">George Miller Center</a><br /><br>
-<b>The 2008-2009 Beneficiaries</b><br />
-<a href="http://www.ocf.berkeley.edu/~spa/" target="_blank">Berkeley's Student Parent Association for Recruitment and Retention (SPARR)</a><br />
-<a href="http://www.contracostaarc.org" target="_blank">George Miller Center</a><br />
-<a href="http://www.sports4kids.org/" target="_blank">Sports 4 Kids</a>
-<br />
-<br />
-<b>The 2007-2008 Beneficiaries</b><br />
-<a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.habitot.org/" target="_blank">Habitot</a><br />
-<a href="http://www.sports4kids.org/" target="_blank">Sports 4 Kids</a>
-<br />
-<br />
-<b>The 2006-2007 Beneficiaries</b><br />
-<a href="http://www.fairyland.org/" target="_blank">Children&#39s Fairyland</a><br />
-<a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.jclread.org/" target="_blank">Jewish Coalition for Literacy</a>
-<br />
-<br />
-<b>The 2005-2006 Beneficiaries</b><br />
-<a href="http://www.fairyland.org/" target="_blank">Children&#39s Fairyland</a><br />
-<a href="http://www.homeaway.org/" target="_blank">Home Away from Homelessness</a> (Read their thank you letter <a href="./docs/letter_2006homeaway.jpg" target="blank">here</a>.)<br />
-<a href="http://home.earthlink.net/~snapkids/index1.html" target="_blank">Special Needs Aquatic Program (SNAP)</a>
-<br />
-<br />
-<b>The 2004-2005 Beneficiaries</b><br />
-<a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a><br />
-<a href="http://www.sfbgirlscouts.org/" target="_blank">Girl Scouts of the San Francisco Bay Area (GSSFBA) - Oakland G.I.F.T</a>
-<br />
-<br />
-<b>The 2003-2004 Beneficiaries</b><br />
-<a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a><br />
-<a href="http://www.mocha.org/" target="_blank">Museum of Children's Art (MOCHA)</a><br />
-<a href="http://studentparents.berkeley.edu/" target="_blank">Student Parent Center/Agency (SPC/A)</a><br />
-<a href="http://www.lookingglass.org/" target="_blank">Through the Looking Glass</a><br />
-<a href="http://www.twinvalleylearningcenter.com/" target="_blank">Twin Valley Learning Center</a>
-<br />
-<br />
-<b>The 2002-2003 Beneficiaries</b><br />
-<a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a><br />
-<a href="http://www.blindbabies.org/" target="_blank">Blind Babies Foundation</a><br />
-<a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a><br />
-<a href="http://www.sports4kids.org/" target="_blank">Sports for Kids</a>
-<br />
-<br />
-<b>The 2001-2002 Beneficiaries</b><br />
-<a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a><br />
-<a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a><br />
-<a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a><br />
-<a href="http://studentparents.berkeley.edu/" target="_blank">Student Parent Center/Agency (SPC/A)</a>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2011-2012 Beneficiaries</b></div>         
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.alacostacenters.org/index.php" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.firstgraduate.org/" target="_blank">First Graduate</a></li>
+<li class="list-group-item"><a href="http://www.contracostaarc.org/" target="_blank">George Miller Center</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2010-2011 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.habitot.org/" target="_blank">Habitot</a></li>
+<li class="list-group-item"><a href="http://www.contracostaarc.org" target="_blank">George Miller Center</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2009-2010 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.contracostaarc.org" target="_blank">George Miller Center</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2008-2009 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.ocf.berkeley.edu/~spa/" target="_blank">Berkeley's Student Parent Association for Recruitment and Retention (SPARR)</a></li>
+<li class="list-group-item"><a href="http://www.contracostaarc.org" target="_blank">George Miller Center</a></li>
+<li class="list-group-item"><a href="http://www.sports4kids.org/" target="_blank">Sports 4 Kids</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2007-2008 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.habitot.org/" target="_blank">Habitot</a></li>
+<li class="list-group-item"><a href="http://www.sports4kids.org/" target="_blank">Sports 4 Kids</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2006-2007 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.fairyland.org/" target="_blank">Children&#39s Fairyland</a></li>
+<li class="list-group-item"><a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.jclread.org/" target="_blank">Jewish Coalition for Literacy</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2005-2006 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.fairyland.org/" target="_blank">Children&#39s Fairyland</a></li>
+<li class="list-group-item"><a href="http://www.homeaway.org/" target="_blank">Home Away from Homelessness</a> (Read their thank you letter <a href="./docs/letter_2006homeaway.jpg" target="blank">here</a>.)</li>
+<li class="list-group-item"><a href="http://home.earthlink.net/~snapkids/index1.html" target="_blank">Special Needs Aquatic Program (SNAP)</a></li>
+</ul>
+</div>
+
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2004-2005 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a></li>
+<li class="list-group-item"><a href="http://www.sfbgirlscouts.org/" target="_blank">Girl Scouts of the San Francisco Bay Area (GSSFBA) - Oakland G.I.F.T</a></li>
+</ul>
+</div>
+
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2003-2004 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a></li>
+<li class="list-group-item"><a href="http://www.mocha.org/" target="_blank">Museum of Children's Art (MOCHA)</a></li>
+<li class="list-group-item"><a href="http://studentparents.berkeley.edu/" target="_blank">Student Parent Center/Agency (SPC/A)</a></li>
+<li class="list-group-item"><a href="http://www.lookingglass.org/" target="_blank">Through the Looking Glass</a></li>
+<li class="list-group-item"><a href="http://www.twinvalleylearningcenter.com/" target="_blank">Twin Valley Learning Center</a>
+</li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2002-2003 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a></li>
+<li class="list-group-item"><a href="http://www.blindbabies.org/" target="_blank">Blind Babies Foundation</a></li>
+<li class="list-group-item"><a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a></li>
+<li class="list-group-item"><a href="http://www.sports4kids.org/" target="_blank">Sports for Kids</a></li>
+</ul>
+</div>
+
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><b>The 2001-2002 Beneficiaries</b></div>
+
+<ul class="list-group">
+<li class="list-group-item"><a href="http://alacostacenter.org/" target="_blank">Ala Costa Center</a></li>
+<li class="list-group-item"><a href="http://www.bacn.jkmas.com/" target="_blank">Bay Area Crisis Nursery (BACN)</a></li>
+<li class="list-group-item"><a href="http://www.ceid.org/" target="_blank">Center for the Education of the Infant Deaf (CEID)</a></li>
+<li class="list-group-item"><a href="http://studentparents.berkeley.edu/" target="_blank">Student Parent Center/Agency (SPC/A)</a>
+</li>
+</ul>
+</div>
 </div>
     <div class="panel-footer">
         <p>Copyright &copy; Eggster 2015-2016 | Valid Bootstrap CSS &amp; HTML.</p>

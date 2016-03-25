@@ -3,7 +3,7 @@
 <head>
     <title>Sponsors</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <script type="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet"></script>
+    <script type="bootstrap/dist/js/bootstrap.css/*.js" rel="stylesheet"></script>
     <script type="bootstrap/jq/*.jq"></script>
     <script type="text/javascript" src="bootstrap/jq/jquery-1.12.1.js"></script>
     <script type="text/javascript" src="bootstrap/dist/js/bootstrap.min.js"></script>
@@ -51,81 +51,94 @@
 The Eggster Egghunt & Learning Festival is sponsored by ASUC, a registered non-profit 501(c)(3) organization. We welcome donations from corporations and individuals in monetary or in-kind form. 100% of donations not used on event details will be donated directly to our <a href="beneficiaries.php">beneficiaries</a>.
 <br><br>
 Please also see below the Corporate Benefits that we provide to our donors. If you are interested in becoming a sponsor, then please contact Eggster&#39s <a href="mailto:eggsterfinance@gmail.com">eggsterfinance@gmail.com</a> for more information.
-<br>
 <!-- We would like to thank the following corporations for their generous donations in support of the <b>2015 Eggster Egghunt & Learning Festival</b>. -->
 </div>
 </div>
+
+
         <div class="container-fluid">
+
+        <div class="page-header">
+            <h3>List of Sponsors</h3>
+        </div>
             <div id="content" class="left">
                
-<br/>
     <p>
-        <u>PLATINUM SPONSORS</u>
-            <ul>
-                <li><a href="http://www.acehardware.com" target="_blank">Ace Hardware</a></li>
-                    <div class="item">
-                        <!-- <img src="bootstrap/dist/css/images/ace_logo.png" alt="" /> -->
-                    </div>
-                <li><a href="http://asuc.org" target="_blank">Associated Students of the University of California</a></li>
-            <div class="item">
-                        <!-- <img src="bootstrap/dist/css/images/asuc_logo.png" alt="" /> -->
-                    </div>
-                <li><a href="http://www.columbussalame.com/" target="_blank">Columbus Salame</a></li>
-                    <div class="item">
-                        <!-- <img src="bootstrap/dist/css/images/columbus.jpg" alt="" /> -->
-                    </div>
-                <li><a href="http://www.lowellberryfoundation.org/">Lowell Berry Foundation</a></li>
-                <li>Student Opportunity Funds</li>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><u>PLATINUM SPONSORS</u></div>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="http://www.acehardware.com" target="_blank">Ace Hardware</a></li>
+                <li class="list-group-item"><a href="http://asuc.org" target="_blank">Associated Students of the University of California</a></li>
+                <li class="list-group-item"><a href="http://www.columbussalame.com/" target="_blank">Columbus Salame</a></li>
+                <li class="list-group-item"><a href="http://www.lowellberryfoundation.org/">Lowell Berry Foundation</a></li>
+                <li class="list-group-item">Student Opportunity Funds</li>
             </ul>
+    </div>
     </p>
-    <p>
-        <u>GOLD SPONSORS</u>
-            <ul>
-                <li>Benefit Cosmetics</li>
-                <li>Curtis and Phuong Chan</li>
-                <li><a href="http://annabellecandy.com/" target="_blank">Annabelle Candy Company</a></li>
-                <li><a href="http://www.gogosqueez.com/" target="_blank">GoGo squeeZ</a></li>
-                <li><a href="http://www.sanrio.com/" target="_blank">Sanrio</a></li>
-                <li><a href="http://publicservice.berkeley.edu/" target="_blank">UC Berkeley Public Service Center</a></li>
-                <li>W. Lau</li>
-            </ul>
-    </p>
-    <p>
-        <u>SILVER SPONSORS</u>
-            <ul>
-                <li><a href="http://acmebread.com" target="_blank">The Acme Bread Company</a></li>
-                <li>Cherie and Bruce Ferry</li>
-                <li><a href="http://www.noahs.com/" target="_blank">Noah's Bagels</a></li>
-                <li><a href="http://www.pier39.com/" target="_blank">Pier 39</a></li>
-                <li><a href="http://teacakebakeshop.com/" target="_blank">Teacake Bake Shop</a></li>
-            </ul>
-    </p>
-    <p>
-        <u>BRONZE SPONSORS</u>
-            <ul>
-                <li>Allison Luengen</li>
-                <li>Angela Leung</li>
-                <li><a href="http://www.calacademy.org/" target="_blank">California Academy of Sciences</a></li>
-                <li><a href="https://www.cagreatamerica.com/" target="_blank">California's Great America</a></li>
-                <li>Emily R. Killeen</li>
-                <li><a href="iubmf.php" target="_blank">Inder and Uma Batra Memorial Fund</a></li>
-                <li><a href="http://www.sportsbasement.com/" target="_blank">Sports Basement</a></li>
-                <li>Stephanie Hu</li>
-                <li><a href="http://www.touchstoneclimbing.com/" target="_blank">Touchstone Climbing</a></li>
-                <li><a href="http://visitors.berkeley.edu/" target="_blank">UC Berkeley Visiter Services</a></li>
-            </ul>
 
-</p>
-<br/>
+
     <p>
-        <u>SPECIAL THANKS</u>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><u>GOLD SPONSORS</u></div>
+            <ul class="list-group">
+                <li class="list-group-item">Benefit Cosmetics</li>
+                <li class="list-group-item">Curtis and Phuong Chan</li>
+                <li class="list-group-item">Annabelle Candy Company</li>
+                <li class="list-group-item">GoGo squeeZ</li>
+                <li class="list-group-item"><a href="http://publicservice.berkeley.edu/" target="_blank">UC Berkeley Public Service Center</a></li>
+                <li class="list-group-item">W. Lau</li>
+            </ul>
+    </div>
     </p>
+
+    <p>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><u>SILVER SPONSORS</u></div>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="http://acmebread.com" target="_blank">The Acme Bread Company</a></li>
+                <li class="list-group-item">Cherie and Bruce Ferry</li>
+                <li class="list-group-item"><a href="http://www.noahs.com/" target="_blank">Noah's Bagels</a></li>
+                <li class="list-group-item"><a href="http://www.pier39.com/" target="_blank">Pier 39</a></li>
+                <li class="list-group-item"><a href="http://teacakebakeshop.com/" target="_blank">Teacake Bake Shop</a></li>
+            </ul>
+    </div>
+    </p>
+
+    <p>
+    <div class="panel panel-default">
+ 
+    <div class="panel-heading"><u>BRONZE SPONSORS</u></div>
+            <ul class="list-group">
+                <li class="list-group-item">Allison Luengen</li>
+                <li class="list-group-item">Angela Leung</li>
+                <li class="list-group-item"><a href="http://www.calacademy.org/" target="_blank">California Academy of Sciences</a></li>
+                <li class="list-group-item"><a href="https://www.cagreatamerica.com/" target="_blank">California's Great America</a></li>
+                <li class="list-group-item">Emily R. Killeen</li>
+                <li class="list-group-item"><a href="iubmf.php" target="_blank">Inder and Uma Batra Memorial Fund</a></li>
+                <li class="list-group-item"><a href="http://www.sportsbasement.com/" target="_blank">Sports Basement</a></li>
+                <li class="list-group-item">Stephanie Hu</li>
+                <li class="list-group-item"><a href="http://www.touchstoneclimbing.com/" target="_blank">Touchstone Climbing</a></li>
+                <li class="list-group-item"><a href="http://visitors.berkeley.edu/" target="_blank">UC Berkeley Visiter Services</a></li>
+            </ul>
+    </div>
+    </p>
+
+<br/>
+
+    
+    <div>
+    <div class="page-header"><h3>Special Thanks</h3></div>
+    
         <p>Alfonso Bonilla, Event Services, Gabriella McGrath, Greg Laymon, Kackiie Hon, the LEAD Center, Merel Dagher, Millicent Morris-Chaney, Physical Plant & Campus Services, Rajelin Escondo, UCPD, Virginia Carpenter, and many others for all their help and support!
         </p>
+    </div>
 
-
-                    <br />
+                    <div class="page-header">
                     <h3>Corporate Benefits</h3>
+                    </div>
                     <p>
                     <table cellspacing="0" border="1" width="550">
     <tr>

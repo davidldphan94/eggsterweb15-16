@@ -3,7 +3,7 @@
 <head>
     <title>Officer Spotlight</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
-    <script type="bootstrap/dist/js/bootstrap.css/bootstrap.js" rel="stylesheet"></script>
+    <script type="bootstrap/dist/js/bootstrap.css/*.js" rel="stylesheet"></script>
     <script type="bootstrap/jq/*.jq"></script>
     <script type="text/javascript" src="bootstrap/jq/jquery-1.12.1.js"></script>
     <script type="text/javascript" src="bootstrap/dist/js/bootstrap.min.js"></script>
@@ -43,14 +43,14 @@
        
     <!-- Content -->
     <div class="jumbotron">
-        <div class="container-fluid">
-            <div class="page-header">
-                <h2>Officer Spotlight</h2>
-            </div>
-        </div>
+      <div class="container-fluid">
+      <div class="page-header">
+        <h2>Officer Spotlight</h2>
+      </div>
+    </div>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid text-center">
     <div class="row">
     <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
