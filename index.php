@@ -118,7 +118,7 @@
      <div class="col-sm-8 col-md-6">
         <div class="thumbnail">
         <div class="container-fluid">
-            <div class="fb-page" data-href="https://www.facebook.com/EggsterOrganization?fref=ts" data-tabs="timeline" data-width="1000" data-height="300" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/EggsterOrganization?fref=ts"><a href="https://www.facebook.com/EggsterOrganization?fref=ts">Eggster at Berkeley</a></blockquote></div></div>
+            <div class="fb-page" data-href="https://www.facebook.com/EggsterOrganization?fref=ts" data-tabs="timeline" data-width="1000" data-height="300" data-small-header="true" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/EggsterOrganization?fref=ts"><a href="https://www.facebook.com/EggsterOrganization?fref=ts">Eggster at Berkeley</a></blockquote></div></div>
 
         </div>
         </div>
