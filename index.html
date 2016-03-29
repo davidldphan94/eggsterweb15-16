@@ -10,11 +10,18 @@
 </head>
     <body>
         <!-- Navigation -->
-
-        <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container-fluid">
-            <ul class="nav nav-tabs nav-justified">
-            <li role="presentation"><a href="">Home</a></li>
+        <div id="fb-root"></div>
+            <script>(function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id;
+              js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script>
+                    <nav class="navbar navbar-default navbar-fixed-top">
+                    <div class="container-fluid">
+                        <ul class="nav nav-tabs nav-justified">
+                        <li role="presentation"><a href="">Home</a></li>
          
         
             <li role="presentation" class="dropdown">
@@ -74,18 +81,23 @@
         </div>
 
 
-
  
 
 
 
     <div class="container-fluid">
+
+
         <div class="page-header">
             <h2>Useful Links and Information</h2>
         </div>
+            <div class="row">
+    <div class="col-sm-8 col-md-6">
+        <div class="thumbnail">
+        <div class="container-fluid">
         <p>
-            General Meetings: Mondays, 7:00-8:00pm in 182 Dwinelle<br>
-            Prop-Building Times: Saturdays and Sundays, 10:00am-2:00pm in 104 Barrows<br>
+            <b>General Meetings:</b> Mondays, 7:00-8:00pm in 182 Dwinelle<br>
+            <b>Prop-Building Times:</b> Saturdays and Sundays, 10:00am-2:00pm in 104 Barrows<br>
         </p>
         <ul>
         <li>
@@ -98,6 +110,21 @@
             <a href="https://www.facebook.com/EggsterOrganization?fref=ts">Facebook Page</a>
         </li>
         </ul>
+
+        </div>
+        </div>
+      </div>
+
+ 
+     <div class="col-sm-8 col-md-6">
+        <div class="thumbnail">
+        <div class="container-fluid">
+            <div class="fb-page" data-href="https://www.facebook.com/EggsterOrganization?fref=ts" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/EggsterOrganization?fref=ts"><a href="https://www.facebook.com/EggsterOrganization?fref=ts">Eggster at Berkeley</a></blockquote></div></div>
+
+        </div>
+        </div>
+      </div>
+        
         <br>
     </div>
 
@@ -112,4 +139,6 @@
 
 
     </body>
+
+
 </html>

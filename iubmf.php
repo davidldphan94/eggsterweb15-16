@@ -1,7 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-    <title>THE INDER AND UMA BATRA MEMORIAL FUND</title>
+    <title>Tthe Inder And Uma Batra Memorial Fund</title>
     <link href="bootstrap/dist/css/bootstrap.css" rel="stylesheet">
     <script type="bootstrap/dist/js/bootstrap.css/*.js" rel="stylesheet"></script>
     <script type="bootstrap/jq/*.jq"></script>

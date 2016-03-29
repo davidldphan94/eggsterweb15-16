@@ -4983,7 +4983,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: white;
-  background-color: #9932CC;
+  background-image: url("images/banner.jpg");
   background-size: cover;                      /* <------ */
   background-repeat: no-repeat;
 

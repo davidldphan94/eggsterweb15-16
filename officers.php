@@ -50,7 +50,7 @@
     </div>
     </div>
 
-    <div class="container-fluid text-center">
+    <div class="container-fluid">
     <div class="row">
     <div class="col-sm-6 col-md-4">
         <div class="thumbnail">

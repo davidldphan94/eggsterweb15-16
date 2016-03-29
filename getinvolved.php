@@ -65,13 +65,13 @@
             </div>
 
             Eggster is an on-campus student group and is composed of three committees: 
-                    <span style="color:#267266">Finance</span>, <span style="color:#267266">Event</span>, <span style="color:#267266">Public Community Relations</span>. 
+                    Finance, Events, Public Community Relations. 
                     Each of these committees  provides an opportunity for members to develop an array of skills in leadership, communication, community networking, event planning, advertising, and fundraising. 
                     Our activities include planning our annual, free, on-campus Eggster Egghunt and Learning Festival, going on volunteer outreaches in the Berkeley area, 
-                    and raising money for our <a href="beneficiaries.php"  style="color:#2CAEBF">agencies</a>.
+                    and raising money for our <a href="beneficiaries.php"  style="color:#00CC00">agencies</a>.
                     <br />
                     <br>
-                    <p>To learn more about our committees, please click <a href="about.php">here</a>!</p>
+                    <p>To learn more about our committees, please click <a href="about.php#committees">here</a>!</p>
         </div>
 
         <div id="alumni"> 
@@ -80,7 +80,7 @@
                     For Alumni
                 </h3>
             </div>
-            <p>The 2015 Event will be approaching and we <b>need your help to make it a success</b>!  Email <a href="mailto:eggsteroverall@gmail.com">eggsteroverall@gmail.com</a> if you live in the Bay Area and can help distribute Event flyers or pick up Event supplies within the next couple of weeks.  You can also email us if you have ideas to help us in other ways. We love you and appreciate your continued support!<br /> Join the <a href="https://calmail.berkeley.edu/manage/list/listinfo/eggsteralum@lists.berkeley.edu" target=_blank style="color:#2CAEBF">Eggster Alumni List</a>!</p>
+            <p>The 2015 Event will be approaching and we <b>need your help to make it a success</b>!  Email <a href="mailto:eggsteroverall@gmail.com">eggsteroverall@gmail.com</a> if you live in the Bay Area and can help distribute Event flyers or pick up Event supplies within the next couple of weeks.  You can also email us if you have ideas to help us in other ways. We love you and appreciate your continued support!<br /> Join the <a href="https://calmail.berkeley.edu/manage/list/listinfo/eggsteralum@lists.berkeley.edu" target=_blank style="color:#00CC00">Eggster Alumni List</a>!</p>
         </div>
 
         <div id="volunteers">
@@ -123,8 +123,8 @@
                     Every year, we invite various UC Berkeley student organizations to set up their own booth at the Eggster Egghunt and Learning Festival, in addition to our own booths.
                     <br>
                     If you would like your organization to have a booth at this year's Eggster Learning Festival, email <a href="mailto:eggsterevent@gmail.com">eggsterevent@gmail.com</a>.
-                    <br>
             </p>
+            <br>
         </div>
     </div>
 
