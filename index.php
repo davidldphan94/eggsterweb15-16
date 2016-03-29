@@ -10,18 +10,17 @@
 </head>
     <body>
         <!-- Navigation -->
-        <div id="fb-root"></div>
-            <script>(function(d, s, id) {
-              var js, fjs = d.getElementsByTagName(s)[0];
-              if (d.getElementById(id)) return;
-              js = d.createElement(s); js.id = id;
-              js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
-              fjs.parentNode.insertBefore(js, fjs);
-            }(document, 'script', 'facebook-jssdk'));</script>
-                    <nav class="navbar navbar-default navbar-fixed-top">
-                    <div class="container-fluid">
-                        <ul class="nav nav-tabs nav-justified">
-                        <li role="presentation"><a href="">Home</a></li>
+                <div id="fb-root"></div>
+                <script>(function(d, s, id) {
+                  var js, fjs = d.getElementsByTagName(s)[0];
+                  if (d.getElementById(id)) return;
+                  js = d.createElement(s); js.id = id;
+                  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+                  fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+        <div class="container-fluid">
+            <ul class="nav nav-tabs nav-justified">
+            <li role="presentation"><a href="">Home</a></li>
          
         
             <li role="presentation" class="dropdown">
