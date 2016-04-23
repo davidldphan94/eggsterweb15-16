@@ -42,19 +42,46 @@
     </nav>
        
     <!-- Content -->
-    <div class="jumbotron">
-      <div class="container-fluid">
-      <div class="page-header">
-        <h2>Officer Spotlight</h2>
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <center><img src="bootstrap/dist/css/images/officers.jpg"></center>
+      <div class="carousel-caption">
+        <h3>Eggster Eggheads 2015-2016</h3>
       </div>
     </div>
+    <div class="item">
+      <center><img src="bootstrap/dist/css/images/members.jpg"></center>
+      <div class="carousel-caption">
+        <h2>Eggheads and General Members</h2>
+      </div>
     </div>
+    ...
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
     <div class="container-fluid">
     <div class="row">
     <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Raj.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Raj Brayana
@@ -73,7 +100,7 @@
 
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Christine.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Christine Laymon
@@ -98,7 +125,7 @@
 
     <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Delia.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Delia Nguyen
@@ -116,7 +143,7 @@
 
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Hiram.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Hiram Yu
@@ -142,7 +169,7 @@
 
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Kathy.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Kathy Chong
@@ -181,7 +208,7 @@
 
     <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Maggie.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Maggie Chen
@@ -199,7 +226,7 @@
 
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Angie.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Angie Shih
@@ -220,7 +247,7 @@
 <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Howard.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Howard Kim
@@ -238,7 +265,7 @@
 
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Sharon.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Sharon Park
@@ -258,7 +285,7 @@
 <div class="row">
       <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Chris.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Chris Teng
@@ -277,7 +304,7 @@
 
             <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="..." alt="...">
+          <br><img src="bootstrap/dist/css/images/Payton.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> Payton Wakimoto
@@ -297,7 +324,7 @@
 <div class="row">
           <div class="col-sm-6 col-md-4">
         <div class="thumbnail">
-          <br><img src="bootstrap/dist/css/images/David.jpg">
+          <br><img src="bootstrap/dist/css/images/Happy.jpg">
           <div class="caption">
             <h5>
                 <b>Name:</b> David Phan
